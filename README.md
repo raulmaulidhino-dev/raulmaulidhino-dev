@@ -1,6 +1,10 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Raul%20Maulidhino&text2=</>%20Coder,%20Thinker,%20Sudoer&width=900&height=400)
 
+###
+
 <p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p> 
+
+###
 
 <h1 align="left">Hello There! 👋</h1>
 <p>I'm <strong>Raul</strong>, a <strong>Coder | Sudoer</strong> who has a keen interest in Web Programming, Linux, AI, and Robotics</p>
@@ -14,6 +18,7 @@
 <img align="right" height="150" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"  />
 
 ###
+
 <h3>My Tech Stacks:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -51,7 +56,7 @@
   <a href="https://www.instagram.com/raul.maulidhino/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:raulahmadm314@gmail.com" target="_blank">
+  <a href="mailto:raulmaulidhino.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/raulahmadm/" target="_blank">
