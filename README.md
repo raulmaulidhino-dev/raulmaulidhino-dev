@@ -68,7 +68,7 @@
 
 <h1 align="center">🔥   My Stats</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raulmaulidhino-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&exclude_langs=Jupyter%20Notebook&theme=dark&hide_border=false&order=2&custom_title=Code%20Composition" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raulmaulidhino-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2&custom_title=Code%20Composition&hide=Jupyter%20Notebook" height="200" alt="languages graph" />
 </div>
 
 ###
