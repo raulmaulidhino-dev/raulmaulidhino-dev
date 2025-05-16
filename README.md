@@ -33,51 +33,51 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   </a>
   <img width="12" />
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
   </a>
   <img width="12" />
-  <a href="https://react.dev/" target="_blank">
+  <a href="https://react.dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js logo" />
   </a>
   <img width="12" />
-  <a href="https://svelte.dev/docs" target="_blank">
+  <a href="https://svelte.dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="Svelte logo" />
   </a>
   <img width="12" />
-  <a href="https://tailwindcss.com/docs" target="_blank">
+  <a href="https://tailwindcss.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS logo" />
   </a>
   <img width="12" />
-  <a href="https://nodejs.org/en/docs" target="_blank">
+  <a href="https://nodejs.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   </a>
   <img width="12" />
-  <a href="https://vitejs.dev/" target="_blank">
+  <a href="https://vitejs.dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="30" alt="Vite logo" />
   </a>
   <img width="12" />
-  <a href="https://dev.mysql.com/doc/" target="_blank">
+  <a href="https://dev.mysql.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL logo" />
   </a>
   <img width="12" />
-  <a href="https://cplusplus.com/doc/" target="_blank">
+  <a href="https://cplusplus.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
   </a>
   <img width="12" />
-  <a href="https://www.python.org/doc/" target="_blank">
+  <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   </a>
   <img width="12" />
-  <a href="https://git-scm.com/doc" target="_blank">
+  <a href="https://git-scm.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git logo" />
   </a>
   <img width="12" />
-  <a href="https://www.arduino.cc/reference/en/" target="_blank">
+  <a href="https://www.arduino.cc" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino logo" />
   </a>
   <img width="12" />
-  <a href="https://www.linux.org/pages/download/" target="_blank">
+  <a href="https://www.linux.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
   </a>
 </div>
@@ -85,13 +85,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/raul.maulidhino/" target="_blank">
+  <a href="https://www.instagram.com/raul.maulidhino" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:raulmaulidhino.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/raulahmadm/" target="_blank">
+  <a href="https://www.linkedin.com/in/raulahmadm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
