@@ -7,7 +7,7 @@
 ###
 
 <h1 align="left">Ahoy There! 👋</h1>
-<p>I'm <strong>Raul</strong>, a <strong>Coder | Sudoer</strong> who has a keen interest in Web Programming, Linux, AI, and Robotics</p>
+<p>I'm <strong>Raul</strong>, a <strong>Coder | Sudoer</strong> who has a keen interest in Web2 & Web3 Programming, Linux, AI, and Robotics.</p>
 <p align="left">
   - 🔭 I’m open to <strong>"Full-Stack Development Opportunities"</strong><br>
   - 📚 I'm currently learning <strong>MERN Stack</strong> & <strong>Sveltekit</strong><br>
