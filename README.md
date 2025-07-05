@@ -10,7 +10,7 @@
 <p>I'm <strong>Raul</strong>, a <strong>Coder | Sudoer</strong> who has a keen interest in Web2 & Web3 Programming, Linux, AI, and Robotics.</p>
 <p align="left">
   - 🔭 I’m open to <strong>"Full-Stack Development Opportunities"</strong><br>
-  - 📚 I'm currently learning <strong>SEO Optimization</strong>, <strong>Web3 Technologies</strong> and <strong>Wix Development</strong>.<br>
+  - 📚 I'm currently learning <strong>SEO Optimization</strong>, <strong>Eclipse Ecosystem</strong> and <strong>Wix Development</strong>.<br>
   - ⚡ In my free time, <strong>I think and code anything in my head! <code>&lt;&#47;&gt;</code> </strong></p>
 
 ###
