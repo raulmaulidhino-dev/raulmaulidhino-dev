@@ -16,7 +16,7 @@
 
 <ul>
   <li>🔭 I’m open to <strong>"Full-Stack Development Opportunities"</strong></li>
-  <li>📚 I'm currently learning <strong>SEO Optimization</strong>, <strong>Eclipse Ecosystem</strong>, and <strong>Wix Development</strong></li>
+  <li>📚 I'm currently learning <strong>SEO Optimization</strong>, <strong>Eclipse Web3 Ecosystem</strong>, and <strong>Wix Development</strong></li>
   <li>⚡ In my free time, I think and code anything in my head! <code>&lt;/&gt;</code></li>
 </ul>
 
