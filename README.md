@@ -15,7 +15,7 @@
 </p>
 
 <ul>
-  <li>🔭 I’m open to <strong>"Full-Stack Development Opportunities"</strong></li>
+  <li>🔭 I’m open to <strong>Website & Secure IoT Development</strong> Opportunities</li>
   <li>📚 I'm currently learning <strong>SEO</strong> & <strong>Web3 Ecosystem</strong></li>
   <li>⚡ In my free time, I think and code anything in my head! <code>&lt;/&gt;</code></li>
 </ul>
