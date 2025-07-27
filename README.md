@@ -11,7 +11,7 @@
 <h1 align="left">Ahoy There! 👋😃</h1>
 
 <p>
-  I'm <strong>Raul</strong>, a <strong>Coder | Sudoer</strong> with a passion for Web2 & Web3 programming, Linux, AI, and Robotics.
+  I'm <strong>Raul</strong>, a <strong>Coder | Sudoer</strong> with a passion for Web2 & Web3 programming, Linux, IoT, AI, and Robotics.
 </p>
 
 <ul>
