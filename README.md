@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="left">Ahoy There! 👋😃</h1>
+<h1 align="left">Hello There! 👋😃</h1>
 
 <p>
   I'm <strong>Raul</strong>, a <strong>Coder | Sudoer</strong> with a passion for Web2 & Web3 programming, Linux, IoT, AI, and Robotics.
