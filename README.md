@@ -16,7 +16,7 @@
 
 <ul>
   <li>🔭 I’m open to <strong>Web(2|3) Project </strong> Opportunities</li>
-  <li>📚 I'm currently learning <strong>Basic Mechatronics</strong> & <strong>Modern Web Development</strong></li>
+  <li>📚 I'm currently learning <strong>Basic Mechatronics Engineering</strong> & <strong>Modern Web Development</strong></li>
   <li>⚡ In my free time, I think and code anything in my head! <code>&lt;/&gt;</code></li>
 </ul>
 
