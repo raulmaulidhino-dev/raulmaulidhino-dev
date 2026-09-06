@@ -97,9 +97,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/raul.maulidhino" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://www.instagram.com/raul.maulidhino" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Profile" />
-  </a>
+  </a> -->
     <a href="https://www.linkedin.com/in/raulahmadm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0072b1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Profile" />
   </a>
