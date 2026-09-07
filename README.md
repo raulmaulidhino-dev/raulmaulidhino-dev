@@ -103,9 +103,9 @@
     <a href="https://www.linkedin.com/in/raulahmadm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0072b1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Profile" />
   </a>
-  <a href="https://medium.com/@raulmaulidhino" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://medium.com/@raulmaulidhino" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium Profile" />
-  </a>
+  </a> -->
   <a href="mailto:raulmaulidhino.dev@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email Raul" />
   </a>
